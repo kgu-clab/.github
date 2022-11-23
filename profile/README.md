@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header)
+
 # C-Lab
 ![운영기간](https://img.shields.io/badge/운영기간-8년-brightgreen)
 ![수상](https://img.shields.io/badge/수상-21개-red)
@@ -16,3 +19,5 @@ C-Lab은 다양한 용도로 Github을 사용하고 있습니다.
 ## Executives
 
 22 - <b>이석현(18), 김관식(19),</b> 박한길(18), 한관희(19), 한종걸(19), 박동민(19), 김가을(21), 김정은(22) <br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=footer)
