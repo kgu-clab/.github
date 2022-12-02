@@ -17,7 +17,7 @@ C-Lab은 스터디 및 프로젝트 진행, 커뮤니티 등 다양한 용도로
 
 ## Executives
 
-23년 - <b>박동민(19)</b>   
+23년 - <b>박동민(19), 김정은(22), 김관식(19), 이찬영(19)</b>   
 22년 - <b>이석현(18), 김관식(19),</b> 박한길(18), 한관희(19), 한종걸(19), 박동민(19), 김가을(21), 김정은(22) <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=footer)
