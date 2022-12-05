@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header)
+
 # C-Lab
 ![운영기간](https://img.shields.io/badge/운영기간-9년-brightgreen)
 ![수상](https://img.shields.io/badge/수상-21개-red)
