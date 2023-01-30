@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=230&text=C-Lab&desc=경기대학교%20컴퓨터공학부%20개발보안동아리&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)
 
+## C-Lab
+
 ![운영기간](https://img.shields.io/badge/운영기간-9년-brightgreen)
 ![수상](https://img.shields.io/badge/수상-21개-red)
 ![취업](https://img.shields.io/badge/취업-100%25-blue)
