@@ -5,8 +5,8 @@
 ![운영기간](https://img.shields.io/badge/운영기간-9년-brightgreen)
 ![수상](https://img.shields.io/badge/수상-21개-red)
 ![취업](https://img.shields.io/badge/취업-100%25-blue)  
-![Total Commit](https://img.shields.io/badge/Total%20Commit-200%2B-green)
-![Services](https://img.shields.io/badge/Services-1-brightgreen)
+![Total Commit](https://img.shields.io/badge/Total%20Commit-500%2B-green)
+![Services](https://img.shields.io/badge/Services-2-brightgreen)
 ![Project](https://img.shields.io/badge/Project-5-blueviolet)  
 
 경기대학교 컴퓨터공학부 개발보안동아리, C-Lab 입니다! 👋  
