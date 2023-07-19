@@ -3,7 +3,7 @@
 ## C-Lab
 
 ![운영기간](https://img.shields.io/badge/운영기간-9년-brightgreen)
-![수상](https://img.shields.io/badge/수상-22개-red)  
+![수상](https://img.shields.io/badge/수상-24개-red)  
 ![Total Commit](https://img.shields.io/badge/Total%20Commit-1200%2B-green)
 ![Services](https://img.shields.io/badge/Services-3-brightgreen)
 ![Project](https://img.shields.io/badge/Project-5-blueviolet)  
