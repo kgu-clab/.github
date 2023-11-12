@@ -13,9 +13,9 @@ C-Lab은 2014년 3월에 설립되어 활동하고 있습니다. 정보보안 �
 
 ## Services
 
-- clab.page: 동아리 공식사이트
-- CSPOP: 경기대학교 졸업논문 시스템
-- GraduationHelper: 경기대학교 졸업요건진단기
+- clab.page - 동아리 공식사이트
+- CSPOP - 경기대학교 졸업논문 시스템
+- GraduationHelper - 경기대학교 졸업요건진단기
 
 ## Executives
 
