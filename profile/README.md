@@ -3,16 +3,10 @@
 # C-Lab
 
 ![운영기간](https://img.shields.io/badge/Since-2014-brightgreen)
-![수상](https://img.shields.io/badge/Awards-24-blue)  
+![수상](https://img.shields.io/badge/Awards-25+-blue)  
 
 경기대학교 컴퓨터공학부 개발보안동아리, C-Lab 입니다! 👋  
 C-Lab은 2014년 3월에 설립되어 활동하고 있습니다. 정보보안 동아리로 시작하여 현재는 융합보안을 모든 분야에 접목하여 연구하는 <b>"개발보안동아리"</b>로 개편되었습니다. 개인 혹은 팀이 자유롭게 공부하고 프로젝트를 진행할 수 있도록, 동아리는 모든 것을 지원합니다. 😄
-
-## Services
-
-- clab.page - 동아리 공식사이트
-- CSPOP - 경기대학교 졸업논문 시스템
-- GraduationHelper - 경기대학교 졸업요건진단기
 
 ## Executives
 
